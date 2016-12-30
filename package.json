@@ -1,0 +1,25 @@
+{
+  "name": "mojs",
+  "version": "1.0.0",
+  "description": "Its the starting of the awesome web experience delivery.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ankitc1010/learn_mojs.git"
+  },
+  "keywords": [
+    "mojs",
+    "awesome",
+    "learning",
+    "phase"
+  ],
+  "author": "Ankit Chauhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankitc1010/learn_mojs/issues"
+  },
+  "homepage": "https://github.com/ankitc1010/learn_mojs#readme"
+}
